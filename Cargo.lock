@@ -17,6 +17,11 @@ version = "0.1.0"
 [[package]]
 name = "adder"
 version = "0.1.0"
+dependencies = [
+ "add_one",
+ "add_three",
+ "add_two",
+]
 
 [[package]]
 name = "adder2"
