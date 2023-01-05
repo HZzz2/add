@@ -1,5 +1,5 @@
-pub fn add_three(n:i32)->i32{
-    n+3
+pub fn add_three(n: i32) -> i32 {
+    n + 3
 }
 
 pub fn add(left: usize, right: usize) -> usize {
