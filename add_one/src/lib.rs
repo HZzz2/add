@@ -1,5 +1,5 @@
 pub fn add_one(n: i32) -> i32 {
-    n +    1
+    n + 1
 }
 
 pub fn add(left: usize, right: usize) -> usize {
