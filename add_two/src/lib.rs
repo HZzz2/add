@@ -25,6 +25,6 @@ mod tests {
         //测试平方
         assert_eq!(square_two(2), 4);
         assert_eq!(square_two(4), 16);
-        assert_eq!(square_two(5), 25);
+        assert_eq!(square_two(5), 255);
     }
 }
