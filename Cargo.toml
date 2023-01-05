@@ -1,0 +1,5 @@
+[workspace]
+members = ["adder", "add_one", "add_two", "add_three", "adder2"]
+#可以有多个二进制包和多个lib包
+#存在多个二进制包时  cargo run --bin 二进制包名 
+#或者cargo run -p 二进制包名        两个二选一
